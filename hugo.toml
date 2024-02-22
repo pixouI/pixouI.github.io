@@ -17,9 +17,13 @@ enableRobotsTXT = true
     # and accessibility, see https://web.dev/color-and-contrast-accessibility/
     noClasses = false
 
-
-
 [params]
   description = 'My personal blog and portfolio'
 	favicon = 'images/favicon.png'
 	images = ['images/socialcard.jpg']
+	title = 'My blog'
+	generateSocialCard = true
+
+  [params.author]
+	  name = 'pixoul'
+		# email = ''
