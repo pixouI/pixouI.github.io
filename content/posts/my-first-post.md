@@ -1,6 +1,13 @@
 +++
+author = 'me'
 title = 'My First Post'
 date = 2024-02-21T07:47:02+01:00
+tags = [
+'computers',
+'hobbies',
+'books',
+]
+
 draft = false
 +++
 

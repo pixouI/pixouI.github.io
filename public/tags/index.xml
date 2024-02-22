@@ -6,7 +6,32 @@
     <description>Recent content in Tags on TheStormThatIsApproaching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>TheStormThatIsApproaching</copyright>
+    <copyright>TheStormThatIsApproaching (MIT)</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 07:47:02 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/tags/books/</link>
+      <pubDate>Wed, 21 Feb 2024 07:47:02 +0100</pubDate>
+      <guid>http://localhost:1313/tags/books/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Computers</title>
+      <link>http://localhost:1313/tags/computers/</link>
+      <pubDate>Wed, 21 Feb 2024 07:47:02 +0100</pubDate>
+      <guid>http://localhost:1313/tags/computers/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>http://localhost:1313/tags/hobbies/</link>
+      <pubDate>Wed, 21 Feb 2024 07:47:02 +0100</pubDate>
+      <guid>http://localhost:1313/tags/hobbies/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
   </channel>
 </rss>

@@ -3,7 +3,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'TheStormThatIsApproaching'
 theme = 'hugo-bearcub'
-copyright = 'TheStormThatIsApproaching'
+copyright = 'TheStormThatIsApproaching (MIT)'
 defaultContentLanguage = 'en'
 enableRobotsTXT = true
 
@@ -23,6 +23,7 @@ enableRobotsTXT = true
 	images = ['images/socialcard.jpg']
 	title = 'My blog'
 	generateSocialCard = true
+  madeWith = 'Made with [Bear Cub](https://github.com/clente/hugo-bearcub) & [Hugo](https://gohugo.io)'
 
   [params.author]
 	  name = 'pixoul'
