@@ -1,4 +1,25 @@
+# Basic configuration
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'TheStormThatIsApproaching'
 theme = 'hugo-bearcub'
+copyright = 'TheStormThatIsApproaching'
+defaultContentLanguage = 'en'
+enableRobotsTXT = true
+
+# Syntax highlighting
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    # This allows Bear Cub to use a variation of Dracula that is more accessible
+    # to people with poor eyesight. For more information about color contrast
+    # and accessibility, see https://web.dev/color-and-contrast-accessibility/
+    noClasses = false
+
+
+
+[params]
+  description = 'My personal blog and portfolio'
+	favicon = 'images/favicon.png'
+	images = ['images/socialcard.jpg']
